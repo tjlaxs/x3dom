@@ -1,5 +1,4 @@
-Welcome to X3DOM 
-================
+# Welcome to X3DOM [![Build Status](https://travis-ci.org/tjlaxs/x3dom.svg?branch=master)](https://travis-ci.org/tjlaxs/x3dom)
 X3DOM is a framework for integrating and manipulating (X)3D scenes as HTML5
 DOM elements, which are rendered via an X3D plugin, Flash/Stage3D or WebGL.
 The open-source system allows defining 3D scene description and runtime
